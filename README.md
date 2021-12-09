@@ -1,3 +1,4 @@
+
 # Star Rating Application
 
 This application is built using ReactJS and ExpressJS.
@@ -12,3 +13,8 @@ This is the proposed tech breakdown for this application:
 
 ## 09 December 2021
 - Initial build and initial push
+
+
+## Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
