@@ -13,6 +13,9 @@ This is the proposed tech breakdown for this application:
 
 ## 09 December 2021
 - Initial build and initial push
+- Created the Rate.js to receive stars and reviews to push to the Frontend
+- App.css for some simple styling
+- CardList.js for creation of cards
 
 
 ## Getting Started with Create React App
