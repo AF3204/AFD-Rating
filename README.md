@@ -13,7 +13,6 @@ This is the proposed tech breakdown for this application:
 
 ## 09 December 2021
 - Initial build and initial push
-- Added the Concurrently library to run both React and Express at the same time
 
 
 ## Getting Started with Create React App
